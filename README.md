@@ -1,4 +1,4 @@
-  ## Sobre
+  ## About me
 
 <div align="center">
   <a href="https://github.com/blcrz">

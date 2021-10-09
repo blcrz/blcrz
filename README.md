@@ -1,5 +1,5 @@
 
- ## About me   <a href="linkedin.com/in/bárbara-cruz-228552199" target="_blank"><img height="25" width="25" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" target="_blank"></a> 
+ ## About me   <a href="https://www.linkedin.com/in/b%C3%A1rbara-cruz-228552199/" target="_blank"><img height="25" width="25" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" target="_blank"></a> 
 <div align="center">
   <a href="https://github.com/blcrz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=blcrz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -15,7 +15,6 @@
   <img align="center" alt="mysql" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
   <img align="center" alt="git" height="65" width="65" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png">
 </div> 
-<br>
 <div style="display:inline_block">
   <img align="right" alt="CSS" height="150" width="150" src="https://cdn.discordapp.com/attachments/896414012382777377/896414755974185011/bazinha.png">
 </div>

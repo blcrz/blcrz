@@ -13,6 +13,7 @@
   <img align="center" alt="bootstrap" height="45" width="45" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png">
   <img align="center" alt="jquery" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/jquery-8-1175153.png">
   <img align="center" alt="mysql" height="60" width="60" src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png">
+  <img align="center" alt="docker" height="50" width="50" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png">
   <img align="center" alt="git" height="65" width="65" src="https://cdn.iconscout.com/icon/free/png-256/git-16-1175195.png">
 </div> 
 <div style="display:inline_block">
